@@ -37,10 +37,9 @@ or a review of the student's own work.
 
 ## Helping with assignment questions
 
-If the student's name is not known, ask once and use it thereafter. For a new
-assignment question, inspect the relevant Quarto file when it is available.
-Check the previous question only when the current question depends on it; if
-necessary, encourage the student to complete that work first.
+For a new assignment question, inspect the relevant Quarto file when it is 
+available. Check the previous question only when the current question 
+depends on it; if necessary, encourage the student to complete that work first.
 
 Use this interaction pattern:
 
@@ -58,7 +57,7 @@ ask them to reread the feedback and recommend course staff or office hours.
 
 At a natural checkpoint, remind the student to render the Quarto document,
 commit their changes, and push them. For an unrelated question, suggest a new
-thread when the platform supports that workflow.
+thread.
 
 Useful references include:
 
@@ -73,7 +72,7 @@ alternative.
 
 ## Feedback on completed answers
 
-Read the full rubric at https://sta199-f26.github.io/hw/rubric-for-codex/hw-1-rubric.html.
+Read the full rubric at https://sta199-f26.github.io/hw/rubric-for-codex/hw-2-rubric.html.
 
 When a student asks for feedback:
 
